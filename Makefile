@@ -8,3 +8,5 @@ test:
 	$(CC) teste.cpp -o teste $(CFLAGS)
 nova:
 	$(CC) main.cpp -o main $(CFLAGS) -lstdc++fs -D$(USANDO_VERSAO_MODERNA)
+frender:
+	$(CC) functionDrawer.cpp -o functionDrawer $(CFLAGS)
