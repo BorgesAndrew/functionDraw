@@ -1,6 +1,7 @@
 #ifndef COLORS_H_
 #define COLORS_H_
 
+#define BRANCO              art::Vec3<uint8_t>(255)
 #define VERMELHO            art::Vec3<uint8_t>(255, 0, 0)
 #define VERDE               art::Vec3<uint8_t>(0, 255, 0)
 #define AZUL                art::Vec3<uint8_t>(0, 0, 255)
