@@ -6,7 +6,7 @@
 #include <thread>
 #include <cmath>
 #include <random>
-
+//artho é um viadinho
 //Inclui o <filesystem>
 #ifdef USANDO_VERSAO_MODERNA
 
